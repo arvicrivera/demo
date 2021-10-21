@@ -46,7 +46,7 @@
     }
   ],
   "freezed": [
-    { "id": 3, "lastImages": [ { "id": 3, "type": "dude" } ] },
-    { "id": 15, "lastImages": [ { "id": 6, "type": "dude" } ] }
+    { "id": 0, "lastImages": { "dude": 3, "chick": 0 } },
+    { "id": 1, "lastImages": { "dude": 6, "chick": 1 } }
   ]
 }
