@@ -16,5 +16,8 @@
       "name": "Susan",
       "attributes": []
     }
+  ],
+  "freezed": [
+    { "id": "0x0000000000000000000000000000000000000000", "bg": "always-changing-dude-1.gif" }
   ]
 }
