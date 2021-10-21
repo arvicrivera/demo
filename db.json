@@ -5,7 +5,15 @@
       "description": "Sexy Borat",
       "external_url": "https://harderdaddy.me",
       "image": "https://harderdaddy.me/nft/always-changing-dude.gif",
-      "name": "Homer",
+      "name": "Borat",
+      "attributes": []
+    },
+    {
+      "id": "chick",
+      "description": "Sexy Susan",
+      "external_url": "https://harderdaddy.me",
+      "image": "https://harderdaddy.me/nft/always-changing-chick.gif",
+      "name": "Susan",
       "attributes": []
     }
   ]
