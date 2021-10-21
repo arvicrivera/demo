@@ -18,7 +18,7 @@
     }
   ],
   "freezed": [
-    { "id": "0x0000000000000000000000000000000000000000", "image": "https://harderdaddy.me/nft/always-changing-dude-1.gif" },
-    { "id": "0x000000000000000000000000000000000000dEaD", "image": "https://harderdaddy.me/nft/always-changing-dude-1.gif" }
+    { "id": "3", "image": "https://harderdaddy.me/nft/always-changing-dude-1.gif" },
+    { "id": "15", "image": "https://harderdaddy.me/nft/always-changing-dude-1.gif" }
   ]
 }
