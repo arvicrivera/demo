@@ -17,9 +17,10 @@
       "attributes": []
     }
   ],
-  "images": [
+  "history": [
     {
-      "dude": [
+      "id": "dude",
+      "images": [
         { "id": 1, "uri": "https://harderdaddy.me/nft/dude/01.gif" },
         { "id": 2, "uri": "https://harderdaddy.me/nft/dude/02.gif" },
         { "id": 3, "uri": "https://harderdaddy.me/nft/dude/03.gif" },
@@ -31,7 +32,8 @@
       ]
     },
     {
-      "chick": [
+      "id": "chick", 
+      "images" : [
         { "id": 1, "uri": "https://harderdaddy.me/nft/chick/01.gif" },
         { "id": 2, "uri": "https://harderdaddy.me/nft/chick/02.gif" },
         { "id": 3, "uri": "https://harderdaddy.me/nft/chick/03.gif" },
