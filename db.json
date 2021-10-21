@@ -4,7 +4,7 @@
       "id": "dude",
       "description": "Sexy Borat",
       "external_url": "https://harderdaddy.me",
-      "image": "https://harderdaddy.me/nft/always-changing-dude.gif",
+      "image": "https://harderdaddy.me/nft/dude/08.gif",
       "name": "Borat",
       "attributes": []
     },
@@ -12,23 +12,39 @@
       "id": "chick",
       "description": "Sexy Susan",
       "external_url": "https://harderdaddy.me",
-      "image": "https://harderdaddy.me/nft/always-changing-chick.gif",
+      "image": "https://harderdaddy.me/nft/chick/08.gif",
       "name": "Susan",
       "attributes": []
     }
   ],
   "images": [
-    { "id": 1, "uri": "https://harderdaddy.me/nft/01.gif" },
-    { "id": 2, "uri": "https://harderdaddy.me/nft/02.gif" },
-    { "id": 3, "uri": "https://harderdaddy.me/nft/03.gif" },
-    { "id": 4, "uri": "https://harderdaddy.me/nft/04.gif" },
-    { "id": 5, "uri": "https://harderdaddy.me/nft/05.gif" },
-    { "id": 6, "uri": "https://harderdaddy.me/nft/06.gif" },
-    { "id": 7, "uri": "https://harderdaddy.me/nft/07.gif" },
-    { "id": 8, "uri": "https://harderdaddy.me/nft/08.gif" }
+    {
+      "dude": [
+        { "id": 1, "uri": "https://harderdaddy.me/nft/dude/01.gif" },
+        { "id": 2, "uri": "https://harderdaddy.me/nft/dude/02.gif" },
+        { "id": 3, "uri": "https://harderdaddy.me/nft/dude/03.gif" },
+        { "id": 4, "uri": "https://harderdaddy.me/nft/dude/04.gif" },
+        { "id": 5, "uri": "https://harderdaddy.me/nft/dude/05.gif" },
+        { "id": 6, "uri": "https://harderdaddy.me/nft/dude/06.gif" },
+        { "id": 7, "uri": "https://harderdaddy.me/nft/dude/07.gif" },
+        { "id": 8, "uri": "https://harderdaddy.me/nft/dude/08.gif" }
+      ]
+    },
+    {
+      "chick": [
+        { "id": 1, "uri": "https://harderdaddy.me/nft/chick/01.gif" },
+        { "id": 2, "uri": "https://harderdaddy.me/nft/chick/02.gif" },
+        { "id": 3, "uri": "https://harderdaddy.me/nft/chick/03.gif" },
+        { "id": 4, "uri": "https://harderdaddy.me/nft/chick/04.gif" },
+        { "id": 5, "uri": "https://harderdaddy.me/nft/chick/05.gif" },
+        { "id": 6, "uri": "https://harderdaddy.me/nft/chick/06.gif" },
+        { "id": 7, "uri": "https://harderdaddy.me/nft/chick/07.gif" },
+        { "id": 8, "uri": "https://harderdaddy.me/nft/chick/08.gif" }
+      ]
+    }
   ],
   "freezed": [
-    { "id": 3, "imageId": 3 },
-    { "id": 15, "imageId": 6 }
+    { "id": 3, "lastImages": [ { "id": 3, "type": "dude" } ] },
+    { "id": 15, "lastImages": [ { "id": 6, "type": "dude" } ] }
   ]
 }
