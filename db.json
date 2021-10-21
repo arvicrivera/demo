@@ -1,5 +1,5 @@
 {
-  "nfts": [
+  "metadata": [
     {
       "id": "dude",
       "description": "Sexy Borat",
@@ -17,8 +17,18 @@
       "attributes": []
     }
   ],
+  "images": [
+    { "id": 1, "uri": "https://harderdaddy.me/nft/01.gif" },
+    { "id": 2, "uri": "https://harderdaddy.me/nft/02.gif" },
+    { "id": 3, "uri": "https://harderdaddy.me/nft/03.gif" },
+    { "id": 4, "uri": "https://harderdaddy.me/nft/04.gif" },
+    { "id": 5, "uri": "https://harderdaddy.me/nft/05.gif" },
+    { "id": 6, "uri": "https://harderdaddy.me/nft/06.gif" },
+    { "id": 7, "uri": "https://harderdaddy.me/nft/07.gif" },
+    { "id": 8, "uri": "https://harderdaddy.me/nft/08.gif" }
+  ],
   "freezed": [
-    { "id": "3", "image": "https://harderdaddy.me/nft/always-changing-dude-1.gif" },
-    { "id": "15", "image": "https://harderdaddy.me/nft/always-changing-dude-1.gif" }
+    { "id": 3, "imageId": 3 },
+    { "id": 15, "imageId": 6 }
   ]
 }
